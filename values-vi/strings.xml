@@ -557,7 +557,7 @@
     <string name="influence_education_low_title">Tiểu học</string>
     <string name="influence_education_high_title">Trung học và đại học</string>
     <string name="influence_police_title">An ninh</string>
-    <string name="influence_firedep_title">Sở PCCC</string>
+    <string name="influence_firedep_title">Sở cứu hoả</string>
     <string name="influence_park_title">Công viên</string>
     <string name="influence_sport_title">Thể thao</string>
     <string name="influence_religion_title">Tôn giáo</string>
@@ -565,7 +565,7 @@
     <string name="influence_culture_text">Giá trị văn hóa của thành phố bạn. </string>
     <string name="influence_education_low_text">Các trường cung cấp bậc Tiểu học.</string>
     <string name="influence_education_high_text">Học sinh lớn hơn được cung cấp bởi trường Trung học.</string>
-    <string name="influence_firedep_text">Ảnh hưởng của PCCC đến thành phố của bạn.</string>
+    <string name="influence_firedep_text">Ảnh hưởng của sở cứu hoả đến thành phố của bạn.</string>
     <string name="influence_health_text">Bệnh viện giúp cho người dân được khỏe.</string>
     <string name="influence_noise_text">Không ai muốn sống trong một nơi ồn ào.</string>
     <string name="influence_park_text">Giúp cho dân của bạn vui và xây dựng được các tòa nhà có giá trị cao.</string>
@@ -683,9 +683,9 @@
     <string name="draft_firedepartment01_text">Cho một thị trấn. Chỉ có 1 xe cứu hỏa.</string>
     <string name="draft_police01_title">Sở cảnh sát bé</string>
     <string name="draft_police01_text">Cho an toàn an ninh hơn</string>
-    <string name="disaster_riot_title">Đảo chính</string>
-    <string name="disaster_riot_text">Chỉ có thể ngăn lại bởi SWAT.</string>
-    <string name="disaster_riot_cmdtext">Nổi loạn</string>
+    <string name="disaster_riot_title">Bạo loạn</string>
+    <string name="disaster_riot_text">Chỉ có thể ngăn lại bởi đội cảnh sát đặc nhiệm.</string>
+    <string name="disaster_riot_cmdtext">Bạo loạn</string>
     <string name="draft_beach00_title">Bãi biển</string>
     <string name="draft_beach00_text">Một ngày đẹp trời trên bãi biển.</string>
     <string name="draft_biergarten00_title">Vườn bia</string>
@@ -695,7 +695,7 @@
     <string name="notify_noindzone">Hãy xây các khu công nghiệp nhưng đừng xây chúng gần nhà bạn.</string>
     <string name="createcity_sizebigbigbig">Khổng lồ</string>
     <string name="locale">en</string>
-    <string name="draft_police02_title">Trụ Sở SWAT.</string>
+    <string name="draft_police02_title">Trụ sở cảnh sát đặc nhiệm.</string>
     <string name="draft_police02_text">Biệt đội tinh nhuệ nhất.</string>
     <string name="settings_blur">Sương mù</string>
     <string name="happiness_supply">Cung cấp</string>
@@ -718,7 +718,7 @@
     <string name="dialog_renamebuilding_title">Đổi tên công trình</string>
     <string name="dialog_renamebuilding_text">Nhập tên vào đây.</string>
     <string name="happiness_police">An ninh</string>
-    <string name="happiness_firedepartment">PCCC</string>
+    <string name="happiness_firedepartment">An toàn phòng cháy</string>
     <string name="dialog_renameauthor_title">Đổi tên tác giả</string>
     <string name="dialog_renameauthor_text">Nhâp tên mới vào đây</string>
     <string name="ci_general_authorname">Tên tác giả: %1$s</string>
@@ -757,12 +757,12 @@
     <string name="loadcity_preview">Thành phố mẫu</string>
     <string name="settings_autorestoresamples">Khôi phục các thành phố mẫu</string>
     <string name="settings_autountouchable">Đặt các công trình của chúng ta khônh thể bị phá bỏ</string>
-    <string name="draft_alert_swat00_title">Gọi SWAT</string>
-    <string name="draft_alert_swat00_text">Nếu có biểu tình thì SWAT sẽ là người ngăn chặn nó.</string>
+    <string name="draft_alert_swat00_title">Gọi cảnh sát đặc nhiệm</string>
+    <string name="draft_alert_swat00_text">Nếu có bạo loạn thì cảnh sát đặc nhiệm sẽ là người ngăn chặn nó.</string>
     <string name="control_continue">Tiếp tục</string>
     <string name="settings_winter">Mùa đông</string>
-    <string name="notify_riot_reason">Có một vụ đảo chính vì %1$s!</string>
-    <string name="notify_riot_noreason">Có một cuộc đảo chính không lý do!</string>
+    <string name="notify_riot_reason">Có một vụ bạo loạn vì %1$s!</string>
+    <string name="notify_riot_noreason">Có một cuộc bạo loạn không lý do!</string>
     <string name="notify_demonstration">Có một cuộc biểu tình vì %1s! Làm điều gì đó nếu không chuyện xấu hơn sẽ xảy ra!</string>
     <string name="draft_marker_powermarker_title">Điện</string>
     <string name="draft_marker_watermarker_title">Nước</string>
@@ -1504,8 +1504,8 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_draft_henv_text">Sự vui vẻ về môi trường.</string>
     <string name="draft_draft_hpd_title">Hạnh phúc về An Ninh</string>
     <string name="draft_draft_hpd_text">Hạnh phúc về An Ninh.</string>
-    <string name="draft_draft_hfd_title">Hạnh phúc về PCCC</string>
-    <string name="draft_draft_hfd_text">Hạnh phúc về PCCC.</string>
+    <string name="draft_draft_hfd_title">Hạnh phúc về an toàn phòng cháy</string>
+    <string name="draft_draft_hfd_text">Hạnh phúc về an toàn phòng cháy.</string>
     <string name="draft_draft_hpk_title">Hạnh phúc về công viên</string>
     <string name="draft_draft_hpk_text">Hạnh phúc về công viên.</string>
     <string name="draft_draft_hsp_title">Hạnh phúc về thể thao</string>
@@ -1862,7 +1862,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draftselector_titlebodydisposal">Nghĩa trang</string>
     <string name="draft_roaddeco_protester00_title">Biểu tình thuê</string>
     <string name="draft_roaddeco_protester00_text">Trả tiền để xem biểu diễn biểu tình.</string>
-    <string name="draft_roaddeco_riot00_title">Đảo chính thuê</string>
+    <string name="draft_roaddeco_riot00_title">Bạo loạn thuê</string>
     <string name="draft_roaddeco_riot00_text">Gây sự chú ý bằng cách trả một ít tiền.</string>
     <string name="draft_roaddeco_roundabout00_title">Vòng xoay nhỏ</string>
     <string name="draft_roaddeco_roundabout00_text">Một vòng xoay đáng yêu nằm giữa đường.</string>
